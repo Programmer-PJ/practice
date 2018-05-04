@@ -1,4 +1,5 @@
 # coding:utf-8
+# 在图片中加上随机颜色的随机数字，类似于微信未读信息数量那种提示效果
 
 from PIL import Image, ImageDraw, ImageFont
 import random
